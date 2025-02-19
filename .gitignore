@@ -1,0 +1,8 @@
+# local env
+/.venv
+
+# cifar10 data
+/data
+
+# weight file
+/saved
