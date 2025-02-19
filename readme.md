@@ -13,3 +13,8 @@ model weight file is in ./saved/
 Accuracy: 0.9289
 
 F1: 0.9289
+
+## Requirement
+python  3.9.8
+torch   2.6.0+cu124
+cuda    12.4
